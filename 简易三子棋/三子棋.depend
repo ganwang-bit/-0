@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605162623 source:c:\users\1\desktop\三子棋\game.c
+	"game.h"
+	<stdio.h>
+	<windows.h>
+
+1605162639 source:c:\users\1\desktop\三子棋\test.c
+	<stdio.h>
+	"game.h"
+	<windows.h>
+
+1605162623 c:\users\1\desktop\三子棋\game.h
+	<time.h>
+	<stdlib.h>
+
